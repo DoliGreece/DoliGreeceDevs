@@ -1,0 +1,6 @@
+FcgidWrapper "/home/httpd/cgi-bin/php74-fcgi-starter.fcgi" .php
+FcgidWrapper "/home/httpd/cgi-bin/php74-fcgi-starter.fcgi" .html
+FcgidWrapper "/home/httpd/cgi-bin/php74-fcgi-starter.fcgi" .htm
+<FilesMatch "\.(html|htm)$">
+ SetHandler fcgid-script
+</FilesMatch>
