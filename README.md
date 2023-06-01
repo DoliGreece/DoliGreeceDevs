@@ -43,11 +43,12 @@
 - [ ] Διασύνδεση με Wordpress
 
 
-
 - [ ] Διασύνδεση με Woocomerce
 
 
 - [ ] Διασύνδεση με Prestashop
+
+- [ ] Διασύνδεση με Opencart
 
 
 - [ ] Διασύνδεση με Nextcloud
