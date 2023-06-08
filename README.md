@@ -1,7 +1,6 @@
 ## Are we there yet?
 
-Η παρακάτω λίστα είναι ενδεικτική και αποτελείται απο ερωτήματα και συνεισφορές που έχουν υποβληθεί στο [forum](https://www.dolibarr.gr/foroum/index.html) της Ελληνικής κοινότητας.
-
+Η παρακάτω λίστα είναι ενδεικτική και αποτελείται απο ερωτήματα και συνεισφορές που έχουν υποβληθεί στο [forum](https://www.dolibarr.gr/foroum/index.html) της Ελληνικής κοινότητας. Δείτε τα [Issues](https://github.com/DoliGreece/DoliGreece/issues) για την πρόοδο. 
 - [ ] wiki
 
 
