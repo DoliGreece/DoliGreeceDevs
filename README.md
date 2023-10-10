@@ -1,12 +1,12 @@
 ## Are we there yet?
 
 Η παρακάτω λίστα είναι ενδεικτική και αποτελείται απο ερωτήματα και συνεισφορές που έχουν υποβληθεί στο [forum](https://www.dolibarr.gr/foroum/index.html) της Ελληνικής κοινότητας. Δείτε τα [Issues](https://github.com/DoliGreece/DoliGreeceDevs/issues) για την πρόοδο. 
-- [ ] wiki
+- [x] wiki (work in progress)
+
 
 
 ### Core
 
-- [ ] Τύποι παραστατικών (τιμολόγια)
 
 
 - [ ] Απόδειξη είσπραξης
@@ -17,6 +17,7 @@
 
 - [ ] Καρτέλα πελάτη και προμηθευτή
 
+- [x] Τύποι παραστατικών (τιμολόγια)
 
 
 - [x] Αναζήτηση στοιχείων απο ΑΑΔΕ μέσω του πεδίου ΑΦΜ και αυτόματη συμπλήρωση στην καρτέλα πελάτη.
@@ -31,10 +32,8 @@
 
 ### Modules / Bridges
 
-- [ ] Mydata
 
 
-- [ ] Mask4Greece
 
 
 
@@ -53,6 +52,11 @@
 
 
 - [ ] Διασύνδεση με Nextcloud
+
+- [x] Mydata (work in progress)
+
+
+- [x] Mask4Greece
 
 - [x] CTPT
 
