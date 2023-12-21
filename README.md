@@ -39,7 +39,7 @@
 - [ ] Διασύνδεση με Wordpress
 
 
-- [ ] Διασύνδεση με Woocomerce
+- [ ] Διασύνδεση με Woocommerce
 
 
 - [ ] Διασύνδεση με Prestashop
