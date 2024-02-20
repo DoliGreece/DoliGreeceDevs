@@ -51,7 +51,7 @@
 
 - [ ] Διασύνδεση με Nextcloud
 
-- [x] Mydata (work in progress)
+- [x] Mydata
 
 
 - [x] Mask4Greece
