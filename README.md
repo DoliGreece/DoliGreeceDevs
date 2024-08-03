@@ -54,13 +54,12 @@
 - [x] Mydata
 
 
-- [x] Mask4Greece
+- [x] Mask4Greece (pdf πρότυπα παραστατικών)
 
-- [x] CTPT
+      https://github.com/TechnickSysAid/mask4greece/
+- [x] CTPT (Σειρές αρίθμισης παραστατικών)
 
+      https://github.com/sonikf/ctpt
+- [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως))
 
-- [x] NumberWords
-
-Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως)
-
-https://www.dolistore.com/en/modules/17-NumberWords.html
+      https://www.dolistore.com/en/modules/17-NumberWords.html
