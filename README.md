@@ -57,7 +57,7 @@
 - [x] Mask4Greece (pdf πρότυπα παραστατικών)
 
       https://github.com/TechnickSysAid/mask4greece/
-- [x] CTPT (Σειρές αρίθμισης παραστατικών)
+- [x] CTPT (Σειρές αρίθμησης παραστατικών)
 
       https://github.com/sonikf/ctpt
 - [x] NumberWords (Μετατροπή αριθμού ή ποσού σε λέξεις (ολογράφως))
